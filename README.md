@@ -1,6 +1,7 @@
 # Calculadora
 
 htdocs/
+
 ├── public/              # Única pasta acessível pelo navegador
 │   ├── css/             # Arquivos .css
 │   ├── js/              # Arquivos .js
